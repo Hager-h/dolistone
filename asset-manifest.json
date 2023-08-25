@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dolistone/static/css/main.ec9d6817.css",
+    "main.js": "/dolistone/static/js/main.dfa02cb3.js",
+    "static/js/787.61a0b13e.chunk.js": "/dolistone/static/js/787.61a0b13e.chunk.js",
+    "index.html": "/dolistone/index.html",
+    "main.ec9d6817.css.map": "/dolistone/static/css/main.ec9d6817.css.map",
+    "main.dfa02cb3.js.map": "/dolistone/static/js/main.dfa02cb3.js.map",
+    "787.61a0b13e.chunk.js.map": "/dolistone/static/js/787.61a0b13e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec9d6817.css",
+    "static/js/main.dfa02cb3.js"
+  ]
+}
